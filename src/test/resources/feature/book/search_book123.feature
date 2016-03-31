@@ -19,6 +19,5 @@ And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
 And i want do smth with "[string]"
-But the payroll for the employee with id [number] should display a salary of [number]
 
 
