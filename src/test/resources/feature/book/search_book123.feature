@@ -6,11 +6,6 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-03-30
 
-@SC_887100784
-Scenario: 
-Given a $100 microwave was sold on 2015-11-03
-And today is 2016-03-30
-
 
 @Critical @Test_1 @SC_250667884
 Scenario: Search books by publication year
