@@ -5,11 +5,6 @@ Feature: Given in background
 Background:
 Given this story has background with given keyword
 
-@SC_887436244
-Scenario: 
-Given this story has background with given keyword
-
-
 @Critical @Test_1 @SC_250868896
 Scenario: Check background
 When scenario not necessary must started from  given keyword
