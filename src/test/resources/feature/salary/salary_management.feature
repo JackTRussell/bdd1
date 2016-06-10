@@ -1,7 +1,6 @@
 @Story_BookSearch @ST_250926912
 Feature: Salary Management
 
-
 @Critical @Test_1 @SC_250927912
 Scenario: Modify an employee's salary
 Given the salary management system is initialized with the following data

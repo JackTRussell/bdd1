@@ -5,7 +5,6 @@ Feature: Given in only one scenario
 Background:
 When in this story background hasn't given keyword
 
-
 @Critical @Test_1 @SC_250750888
 Scenario: Check scenario
 Given this scenario must started from given keyword

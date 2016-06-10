@@ -6,7 +6,6 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-03-30
 
-
 @Critical @Test_1 @SC_250667884
 Scenario: Search books by publication year
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
